@@ -1,4 +1,4 @@
-Code for [Evolution Strategy for playing Catch](https://medium.com/@edersantana/mve-series-playing-catch-with-keras-and-an-evolution-strategy-a005b75d0505) blog post
+Code for [Playing Catch with Keras and an Evolution Strategy](https://medium.com/@edersantana/mve-series-playing-catch-with-keras-and-an-evolution-strategy-a005b75d0505) blog post
 
 ### Train
 ```bash
